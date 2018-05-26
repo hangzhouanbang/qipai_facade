@@ -1,6 +1,6 @@
 spring:
   application:
-    name: qipai_facade
+    name: qipai-facade
 
 server:
   port: 8080
